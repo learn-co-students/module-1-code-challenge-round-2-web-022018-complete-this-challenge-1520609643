@@ -40,7 +40,7 @@ _A Watchlisting object represents that an individual user has added a particular
 + Watchlisting#rating
   + returns the viewer's rating for the movie associated with this watchlisting
 
-### MOVIE 
+### MOVIE
 
 + Movie.all
   + returns an array of all movies
